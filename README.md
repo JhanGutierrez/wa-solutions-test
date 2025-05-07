@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como parte de una prueba técnica para WA Solutio
 
 ## 🚀 Demo
 
-[Ver Demo](https://wa-solutions-test.vercel.app/)
+<a href="https://wa-solutions-test.vercel.app/" target="_blank">Ver Demo</a>
 
 ## ⚙️ Tecnologías Utilizadas
 
